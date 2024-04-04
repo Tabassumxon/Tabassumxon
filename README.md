@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Tabassumxon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+1- fan: Inson va kompyuterning o`zaro ta`siri
+Vazifa: 
+  1) Samrt interfeys: Jadval va Ma'lumotlar bazasi;
+  2)  Figma dasturida har xil shakllar, rasmlar, musiqalar, video  kontentlar uchun dizaynlar yaratish-(kamida 20 ta);
+   3) Figma dasturida kichik flag oynalar uchun matnlar dizaynini yaratish – (kamida 20 ta);
+   4) Hissiy dizayn: (10 ta mantiqiy rasmlar ketma-ketligi).
 
-<!---
-Tabassumxon/Tabassumxon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+2- fan: Dasturlash uslublari va paradigmalar
+Vazifa: 
+  1) Berilgan variant bo'yicha obyekt class ini yaratish. Unda Obyektda nechta hussiyat bo'lsa shuncha qidiruv funksiyasi bo'lishi kerak.
+  2) Polimorfizm va Merosxo'rli.
